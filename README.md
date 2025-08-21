@@ -19,7 +19,7 @@ Key points:
 
 ## Demo
 
-Video demo: (not provided here). You can record a demo using your RGB-D camera and the included example node.
+<iframe src="//player.bilibili.com/player.html?bvid=BV1g8Y9zMEZ4&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Requirements and Installation
 

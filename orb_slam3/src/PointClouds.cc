@@ -137,7 +137,7 @@ void PointClouds::generatePointCloud(PointCloud::Ptr& GlobalCloud, Atlas* pAtlas
 
         
 
-        *GlobalCloud = *cloud1;
+        *GlobalCloud += *cloud1;
     }
 
     mbUpdateCloudPoint = false;

@@ -41,8 +41,8 @@ public:
     ORBSlamNode(int argc, char** argv) : Node("orb_slam3_ros2_node")
     {
         // Initialize parameters from command line arguments
-        std::string voc_file = "/home/robot806/robot_ws/src/orbslam3_dense_ros2/orb_slam3/Vocabulary/ORBvoc.txt.bin";
-        std::string settings_file = "/home/robot806/robot_ws/src/orbslam3_dense_ros2/orb_slam3/config/RGB-D/RealSense_D435i.yaml";
+        std::string voc_file = "/home/zgf/test/src/orbslam3_dense_ros2/orb_slam3/Vocabulary/ORBvoc.txt.bin";
+        std::string settings_file = "/home/zgf/test/src/orbslam3_dense_ros2/orb_slam3/config/RGB-D/RealSense_D435i.yaml";
         bool enable_pangolin = true;
         std::string rgb_topic = "/camera/camera/color/image_raw";
         std::string depth_topic = "/camera/camera/aligned_depth_to_color/image_raw";
