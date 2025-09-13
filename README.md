@@ -19,7 +19,7 @@ Key points:
 
 ## Demo
 
-# [![alt text](assert/image.png)](https://www.bilibili.com/video/BV1g8Y9zMEZ4/)
+# [![alt text](assets/image.png)](https://www.bilibili.com/video/BV1g8Y9zMEZ4/)
 
 
 ## Requirements and Installation
