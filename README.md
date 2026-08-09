@@ -1,7 +1,9 @@
+
+
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Build Status](https://img.shields.io/badge/Build-Passing-success.svg)
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.5.0-blue.svg)
 
 ## 【[简体中文版在此](README_CN.md)】
 
